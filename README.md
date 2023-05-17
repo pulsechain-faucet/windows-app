@@ -1,3 +1,4 @@
+test version v.1.2
 # PulseChain Faucet APP - GET 2500 $PLS 
 
 Website: https://pls-faucet.com/
